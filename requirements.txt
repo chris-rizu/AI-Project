@@ -1,0 +1,12 @@
+streamlit
+openai
+python-dotenv
+boto3
+langchain-aws
+pypdf
+chromadb
+langchain-chroma
+faiss-cpu
+langchain
+langchain-openai
+requests
